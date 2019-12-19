@@ -1,3 +1,6 @@
+52.68.76.92 omotenashi.cygames.jp # 54.199.193.205
+2600:1417:b000:19b::1934 production-api.dragalialost.com # 2600:1417:b000:1b6::1934  23.38.177.58   104.71.171.51
+
 # 屏蔽Adobe激活服务器：
 0.0.0.0 activate.adobe.com
 0.0.0.0 practivate.adobe.com
