@@ -1,1 +1,56 @@
-2a00:1450:4001:809::200a  www.googleapis.com
+# 屏蔽Adobe激活服务器：
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+
+223.119.50.217 steamusercontent-a.akamaihd.net #UHE_
+223.119.50.217 steamcdn-a.akamaihd.net #UHE_
+151.101.40.133 raw.githubusercontent.com #UHE_
+151.101.40.133 avatars0.githubusercontent.com #UHE_
+151.101.40.133 avatars1.githubusercontent.com #UHE_
+151.101.40.133 avatars2.githubusercontent.com #UHE_
+151.101.40.133 avatars3.githubusercontent.com #UHE_
+23.210.203.9 cloud-3.steamusercontent.com #UHE_
+101.28.134.41 media.st.dl.bscstorage.net #UHE_
+223.119.226.125 store.steampowered.com #UHE_
+223.119.226.125 api.steampowered.com #UHE_
+131.253.33.213 bn1301.storage.live.com #UHE_
+106.117.249.216 assets1.xboxlive.cn #UHE_
+106.117.249.216 assets2.xboxlive.cn #UHE_
+106.117.249.216 dl.delivery.mp.microsoft.com #UHE_
+106.117.249.216 tlu.dl.delivery.mp.microsoft.com #UHE_
+13.225.155.68 authserver.mojang.com #UHE_
+13.225.155.68 sessionserver.mojang.com #UHE_
+13.225.155.68 api.mojang.com #UHE_
+13.225.233.36 textures.minecraft.net #UHE_
+175.45.42.210 cctv4-lh.akamaihd.net #UHE_
+175.45.42.210 moviesok-i.akamaihd.net #UHE_
+175.45.42.210 vluki-a.akamaihd.net #UHE_
+175.45.42.210 hgtv-i.akamaihd.net #UHE_
+175.45.42.210 toots-a.akamaihd.net #UHE_
+23.62.226.171 steamuserimages-a.akamaihd.net #UHE_
+
+23.62.226.171 steamcdn-a.akamaihd.net #UHE_
+
+23.62.226.171 steamstore-a.akamaihd.net #UHE_
+
+23.62.226.171 steamcommunity-a.akamaihd.net #UHE_
+
+23.62.226.171 steampipe.akamaized.net #UHE_
+
+23.62.226.171 eaassets-a.akamaihd.net #UHE_
+
+23.62.226.171 humblebundle-a.akamaihd.net #UHE_
+
+23.62.226.171 steamcommunity-a.akamaihd.net #UHE_
